@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "baicai.dev — 你的AI前哨基地",
+  title: "baicai.dev 你的AI前哨基地",
   description: "T探索AI、科技、個人專案的全新可能，從這裡開始。",
   // other metadata
 };

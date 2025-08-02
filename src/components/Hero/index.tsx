@@ -15,11 +15,11 @@ const Hero = () => {
                   瑪拉與樹
                 </h1>
                 <p className="mb-12 text-base leading-relaxed text-white/80 sm:text-lg md:text-xl">
-                  起 初 神 创 造 天 地 <br/>
-                  地 是 空 虚 混 沌 <br/>
-                  渊 面 黑 暗 <br/>
-                  神 的 灵 运 行 在 水 面 上 <br/>
-                  神 说 要 有 光 就 有 了 光 <br/>
+                  但願使人有盼望的神 <br/>
+                  因信將諸般的喜樂 <br/>
+                  平安充滿你們的心 <br/>
+                  使你們藉著聖靈的能力 <br/>
+                  大有盼望<br/>
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
