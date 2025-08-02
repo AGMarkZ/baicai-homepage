@@ -12,25 +12,25 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
+  title: "baicai.dev — 你的AI前哨基地",
+  description: "T探索AI、科技、個人專案的全新可能，從這裡開始。",
   // other metadata
 };
 
 export default function Home() {
   return (
     <>
-      <ScrollUp />
+      {/* <ScrollUp />*/}
       <Hero />
-      <Features />
-      <Video />
-      <Brands />
-      <AboutSectionOne />
-      <AboutSectionTwo />
-      <Testimonials />
-      <Pricing />
-      <Blog />
-      <Contact />
+      {/* <Features />*/}
+      {/* <Video />*/}
+      {/* <Brands />*/}
+      {/* <AboutSectionOne />*/}
+      {/* <AboutSectionTwo />*/}
+      {/* <Testimonials />*/}
+      {/* <Pricing />*/}
+      {/* <Blog />*/}
+      {/* <Contact />*/}
     </>
   );
 }
